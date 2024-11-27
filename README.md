@@ -2,13 +2,13 @@ Pre-processing in Nov. 2024, EE \
 I am analyzing the Daily Traffic Volume at the FTS stations in the US on a temporal scale from Jan.1st 2019
  to Dec. 31st 2020 \
  The transportation data are downloaded from the Bureau of Transportation Statistics
- (https://www.fhwa.dot.gov/policyinformation/tables/tmasdata/) in its original database format as it was collected through the FHWA Travel Monitoring Analysis System (TMAS).
- The TMG (2001) specified fixed width volume data format is listed below.
+ (https://www.fhwa.dot.gov/policyinformation/tables/tmasdata/) in its original database format as it was collected through the FHWA Travel Monitoring Analysis System (TMAS). \
+ The TMG (2001) specified fixed width volume data format is listed below. \
  In this format, each data field has its unique column with fixed width. The hourly count data for each of the 24
- hours in a day takes 24 columns.
+ hours in a day takes 24 columns. \
  The tool asks for a zipped volume file (downloaded from the FHWA Office of Highway Policy Information website
  (https://www.fhwa.dot.gov/policyinformation/tables/tmasdata/
- (https://www.fhwa.dot.gov/policyinformation/tables/tmasdata/)). The tool then converts it to different formats with a daily record or hourly record forms.
+ (https://www.fhwa.dot.gov/policyinformation/tables/tmasdata/)). \ The tool then converts it to different formats with a daily record or hourly record forms. \
  Field Columns Length Description
  1 Record Type
  2-3 2 FIPS State Code
