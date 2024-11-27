@@ -1,6 +1,6 @@
-Pre-processing in Nov. 2024, EE
+Pre-processing in Nov. 2024, EE \
 I am analyzing the Daily Traffic Volume at the FTS stations in the US on a temporal scale from Jan.1st 2019
- to Dec. 31st 2020 
+ to Dec. 31st 2020 \
  The transportation data are downloaded from the Bureau of Transportation Statistics
  (https://www.fhwa.dot.gov/policyinformation/tables/tmasdata/) in its original database format as it was collected through the FHWA Travel Monitoring Analysis System (TMAS).
  The TMG (2001) specified fixed width volume data format is listed below.
