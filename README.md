@@ -8,7 +8,7 @@ The state wide cumulative traffic volume in 2020 is compared to the correspondin
  and (https://www.nytimes.com/interactive/2020/us/states-reopen-map-coronavirus.html)   The COVID19 state policies
  were categorical and numerically coded, in time series format. \
   The transportation data are downloaded from the Bureau of Transportation Statistics
- (https://www.fhwa.dot.gov/policyinformation/tables/tmasdata/) in its original database format as it was collected through the FHWA Travel Monitoring Analysis System (TMAS). \
+ (https://www.fhwa.dot.gov/policyinformation/tables/tmasdata/) in its original database format as it was collected through the FHWA Travel Monitoring Analysis System (TMAS). 
  
  For data modeling purposes, calculated variables were created as follows: \
  stateTraffic    - state cumulative daily traffic, in million vehicles per day \
