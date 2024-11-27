@@ -8,7 +8,7 @@ I am analyzing the Daily Traffic Volume at the FTS stations in the US on a tempo
  hours in a day takes 24 columns. \
  The tool asks for a zipped volume file (downloaded from the FHWA Office of Highway Policy Information website
  (https://www.fhwa.dot.gov/policyinformation/tables/tmasdata/
- (https://www.fhwa.dot.gov/policyinformation/tables/tmasdata/)). \ 
+ (https://www.fhwa.dot.gov/policyinformation/tables/tmasdata/)) \ 
  The tool then converts it to different formats with a daily record or hourly record forms. \
  Field Columns Length Description
  1 Record Type
