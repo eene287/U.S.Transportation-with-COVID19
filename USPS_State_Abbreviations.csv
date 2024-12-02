@@ -1,17 +1,18 @@
 stateName,stateCode,FIPS.State.Code
 Alabama,AL,1
 Alaska,AK,2
-na,na, na
+na,na, 3
 Arizona,AZ,4
 Arkansas,AR,5
 California,CA,6
-na, na, na
+na, na, 7
 Colorado,CO,8
 Connecticut,CT,9
 Delaware,DE,10
 District of Columbia,DC,11
 Florida,FL,12
 Georgia,GA,13
+na, na, 14
 Hawaii,HI,15
 Idaho,ID,16
 Illinois,IL,17
@@ -40,7 +41,7 @@ Ohio,OH,39
 Oklahoma,OK,40
 Oregon,OR,41
 Pennsylvania,PA,42
-na, na, na
+na, na, 43
 Rhode Island,RI,44
 South Carolina,SC,45
 South Dakota,SD,46
@@ -49,7 +50,7 @@ Texas,TX,48
 Utah,UT,49
 Vermont,VT,50
 Virginia,VA,51
-na, na, na
+na, na, 52
 Washington,WA,53
 West Virginia,WV,54
 Wisconsin,WI,55
