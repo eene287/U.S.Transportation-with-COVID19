@@ -38,7 +38,7 @@ server <- function(input, output) {
   prior<-reactive({prior_ts[[n()]]$prior})
   emer<-reactive({emer_ts[[n()]]$emer})
   lock<-reactive({lock_ts[[n()]]$lock})
-  name<- reactive({ stateList[[n()-1, "stateName"]]  })
+  name<- reactive({ stateList[[n(), "stateName"]]  })
   
   observe({
     if (n() %in% allCodes) {
