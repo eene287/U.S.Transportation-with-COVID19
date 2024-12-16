@@ -2,7 +2,7 @@ Pre-processing in Nov. 2024, EE \
 I am analyzing the Daily Traffic Volume at the FTS stations in the US on a temporal scale from Jan.1st 2019
  to Dec. 31st 2020 
  
-The state wide cumulative traffic volume in 2020 is compared to the corresponding volume in 2018 and 2019, and with the sttae wide COVID19 policies. \
+The state wide cumulative traffic volume in 2020 is compared to the corresponding volume in 2018 and 2019, and with the state wide COVID19 policies. \
  The COVID19 state policies were extracted from
  (https://en.wikipedia.org/wiki/U.S._state_and_local_government_responses_to_the_COVID19_pandemic)
  and (https://www.nytimes.com/interactive/2020/us/states-reopen-map-coronavirus.html)   The COVID19 state policies
